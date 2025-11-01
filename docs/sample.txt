@@ -1,0 +1,2 @@
+Chatbot ini dibuat oleh Alvio sebagai proyek RAG menggunakan Ollama dan LangChain.
+Tujuan chatbot ini adalah menjawab pertanyaan berdasarkan dokumen lokal.
