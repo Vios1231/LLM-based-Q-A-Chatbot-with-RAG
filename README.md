@@ -29,7 +29,7 @@ Chatbot ini dapat menjawab pertanyaan berdasarkan isi dokumen teks lokal.
 ---
 
 ## Screenshot DEMO
-
+<img width="1919" height="1096" alt="Screenshot 2025-11-01 000905" src="https://github.com/user-attachments/assets/cc5c6182-45a9-4bb9-9f0a-5bac554dee4d" />
 
 ---
 
