@@ -28,25 +28,31 @@ Chatbot ini dapat menjawab pertanyaan berdasarkan isi dokumen teks lokal.
 
 ---
 
+## Screenshot DEMO
+
 
 ---
 
-## ⚙️ Cara Menjalankan
+⚙️ Cara Menjalankan
+1️⃣ Persiapan
 
-### 1️⃣ Persiapan
-Pastikan kamu sudah menginstall [Ollama](https://ollama.com/download) dan menjalankan server-nya:
+Pastikan kamu sudah menginstall Ollama dan menjalankan server-nya:
 
-```bash
 ollama serve
 
-Lalu download model yang dibutuhkan:
+Kemudian download model yang dibutuhkan:
+
 ollama pull llama3
 ollama pull mxbai-embed-large
-
 2️⃣ Install Dependensi
-Aktifkan environment kamu lalu jalankan:
-pip install -r requirements.txt
 
+Aktifkan virtual environment dan install semua library yang dibutuhkan:
+
+pip install -r requirements.txt
 3️⃣ Jalankan Aplikasi
+
+Jalankan proyek dengan perintah berikut:
+
 streamlit run app.py
 
+Lalu copy ip address localhost ke browser
